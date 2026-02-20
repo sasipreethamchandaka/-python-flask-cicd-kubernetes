@@ -36,9 +36,8 @@ python-flask-cicd-kubernetes/
 - Runs on port 5000
 - Custom UI with DevOps & Multi-Cloud theme
 - Displays:
-  - DevOps With Multi Cloud
-  - Presented by Veera Sir
-  - Team VeeraOps
+  - Pawan Kalyan Career Journey
+  - 2026 Pawan Kalyan Career Website
 
 ------------------------------------------------------------
 
